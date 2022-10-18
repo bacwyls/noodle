@@ -1,9 +1,10 @@
 :~  title+'noodle'
-    info+'a handy nock fiddle for legal computing'
+    info+'a nock fiddle for legal computing'
     color+0xff.ffff
-    glob-ames+[~bep 0v0]
+    glob-ames+[~nodmyn-dosrux 0v0]
     base+'noodle'
     version+[0 0 1]
-    website+'https://github.com'
+    website+'https://github.com/bacwyls/noodle'
+    image+'https://0x0.st/owWY.png'
     license+'MIT'
 ==
